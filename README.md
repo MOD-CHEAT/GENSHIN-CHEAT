@@ -1,1 +1,2 @@
 # shika-cheat
+minty-cheat
